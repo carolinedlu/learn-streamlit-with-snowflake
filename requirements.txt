@@ -1,1 +1,4 @@
+# Add any libraries/packages you plan on using here!
+# Check out Python packages here: https://pypi.org/
 streamlit
+snowflake-connector-python
